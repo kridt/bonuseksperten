@@ -1,3 +1,6 @@
+import { useEffect } from "react";
+import { initGA, logPageView } from "./components/InitGa";
+
 function App() {
   return (
     <div className="App">
