@@ -1,7 +1,17 @@
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import LandingPage from "./pages/LandingPage";
+
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <LandingPage />,
+    },
+  ]);
+
   return (
     <div className="App">
-      <h1>App</h1>
+      <RouterProvider router={router} />
     </div>
   );
 }
