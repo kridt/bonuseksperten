@@ -1,5 +1,6 @@
 import React from "react";
 import { useMediaQuery } from "react-responsive";
+import { Link } from "react-router-dom";
 
 export default function NavBar() {
   const isMobile = useMediaQuery({ query: "(max-width: 600px)" });
@@ -8,25 +9,29 @@ export default function NavBar() {
     return (
       <nav
         style={{
-          backgroundColor: "#000336",
+          backgroundColor: "#8B0000",
           display: "flex",
           justifyContent: "space-between",
           padding: "0 1em",
+          position: "sticky",
+          top: "0",
+          zIndex: "100",
         }}
       >
         <div
           style={{
-            maxWidth: "150px",
+            maxWidth: "200px",
+            justifyContent: "center",
+            margin: "0 auto",
           }}
         >
-          <img
-            style={{ width: "100%", height: "auto" }}
-            src="/logo.png"
-            alt="logo"
-          />
-        </div>
-        <div style={{ color: "white", alignSelf: "center" }}>
-          <i class="fa-solid fa-bars fa-2xl"></i>
+          <Link to="/">
+            <img
+              style={{ width: "100%", height: "auto", textAlign: "center" }}
+              src="/logo2.png"
+              alt="logo"
+            />
+          </Link>
         </div>
       </nav>
     );
