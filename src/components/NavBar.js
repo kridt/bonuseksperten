@@ -38,9 +38,19 @@ export default function NavBar() {
   }
 
   return (
-    <nav>
+    <nav
+      style={{
+        backgroundColor: "#8B0000",
+        display: "flex",
+        justifyContent: "center",
+        padding: "1em",
+        position: "sticky",
+        top: "0",
+        zIndex: "100",
+      }}
+    >
       <div>
-        <img src="/logo.png" alt="logo" />
+        <img width={"25%"} height={"auto"} src="/logo2.png" alt="logo" />
       </div>
     </nav>
   );

@@ -48,52 +48,12 @@
     "image_path": "/mnt/data/bookmaker_images/mr_green.png"
   },
   {
-    "bookmaker": "KapowCasino",
-    "bonus": "500 spins ved første indbetaling",
-    "terms": "Omsætningskrav 10x værdi af spins + indbetaling. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://wlkapowcasino.adsrv.eacdn.com",
-    "image_path": "/mnt/data/bookmaker_images/kapowcasino.png"
-  },
-  {
     "bookmaker": "LeoVegas",
     "bonus": "Op til 1000 kr. i bonus + 200 free spins",
     "terms": "Omsætningskrav 20x bonusbeløb. Se vilkår og betingelser. ",
     "rating": 4.5,
     "affiliate_link": "https://ntrfr.leovegas.com",
     "image_path": "/mnt/data/bookmaker_images/leovegas.png"
-  },
-  {
-    "bookmaker": "Casumo",
-    "bonus": "Op til 2000 kr. i bonus + 30 free spins",
-    "terms": "Omsætningskrav 30x bonusbeløb. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://casumo.com",
-    "image_path": "/mnt/data/bookmaker_images/casumo.png"
-  },
-  {
-    "bookmaker": "Rizk",
-    "bonus": "100% bonus op til 1000 kr. + 50 free spins",
-    "terms": "Omsætningskrav 35x bonusbeløb. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://rizk.com",
-    "image_path": "/mnt/data/bookmaker_images/rizk.png"
-  },
-  {
-    "bookmaker": "888 Casino",
-    "bonus": "100% op til 1500 kr. i bonus",
-    "terms": "Omsætningskrav 40x bonusbeløb. Se vilkår og betingelser. ",
-    "rating": 4.5,
-    "affiliate_link": "https://888.com",
-    "image_path": "/mnt/data/bookmaker_images/888casino.png"
-  },
-  {
-    "bookmaker": "Royal Casino",
-    "bonus": "100% bonus op til 1000 kr.",
-    "terms": "Omsætningskrav 10x bonusbeløb. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://royalcasino.dk",
-    "image_path": "/mnt/data/bookmaker_images/royalcasino.png"
   },
   {
     "bookmaker": "Spilnu.dk",
@@ -126,53 +86,5 @@
     "rating": 4,
     "affiliate_link": "https://mrvegas.com",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
-  },
-  {
-    "bookmaker": "Betsson",
-    "bonus": "100% op til 200 kr.",
-    "terms": "Kun nye spillere, 5x gennemspilskrav. Se vilkår og betingelser. ",
-    "rating": 4.5,
-    "affiliate_link": "https://betsson.dk",
-    "image_path": "/mnt/data/bookmaker_images/betsson.png"
-  },
-  {
-    "bookmaker": "Bet25",
-    "bonus": "100% op til 500 kr.",
-    "terms": "Kun nye spillere, 5x gennemspilskrav. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://bet25.dk",
-    "image_path": "/mnt/data/bookmaker_images/bet25.png"
-  },
-  {
-    "bookmaker": "SlotsMagic",
-    "bonus": "50 free spins ved første indbetaling",
-    "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
-    "rating": 4.5,
-    "affiliate_link": "https://slotsmagic.dk",
-    "image_path": "/mnt/data/bookmaker_images/slotsmagic.png"
-  },
-  {
-    "bookmaker": "Karamba",
-    "bonus": "100% op til 2000 kr. + 100 free spins",
-    "terms": "Kun nye spillere, 20x gennemspilskrav. Se vilkår og betingelser. ",
-    "rating": 4.5,
-    "affiliate_link": "https://karamba.com",
-    "image_path": "/mnt/data/bookmaker_images/karamba.png"
-  },
-  {
-    "bookmaker": "Casino.dk",
-    "bonus": "100% op til 1000 kr.",
-    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://casino.dk",
-    "image_path": "/mnt/data/bookmaker_images/casino_dk.png"
-  },
-  {
-    "bookmaker": "Tivoli Casino",
-    "bonus": "50 free spins til Starburst",
-    "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://tivolicasino.dk",
-    "image_path": "/mnt/data/bookmaker_images/tivolicasino.png"
   }
 ]
