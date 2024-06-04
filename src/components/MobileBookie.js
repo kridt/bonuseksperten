@@ -16,7 +16,7 @@ export default function MobileBookie({ data }) {
       <div className="card">
         <div>
           <img
-            src={"https://via.placeholder.com/300x150?text=Side+Logo"}
+            src={"/" + data?.bookmaker + ".png"}
             alt={data?.bookmaker}
             style={{
               width: "100%",
