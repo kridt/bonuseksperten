@@ -86,5 +86,77 @@
     "rating": 4,
     "affiliate_link": "https://mrvegas.com",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Chanz",
+    "bonus": "100% Bonus op til 400 kr.",
+    "terms": "Reklame | 18+ | Spil ansvarligt | Selvudelukkelse via Rofus.nu | Kontakt Spillemyndighedens hjælpelinje på StopSpillet rådgivning om spilafhængighed, Kun gyldig ved første indbetaling | Min. indbetaling: 100 kr. | Maks. bonus: 1.000 kr. | Omsætningskrav: 10 x indbetaling + bonusbeløb inden 60 dage Regler og vilkår gælder",
+    "rating": 4,
+    "affiliate_link": "https://casino.chanz.com/da/",
+    "image_path": "/mnt/data/bookmaker_images/Chanz.png"
+  },
+  {
+    "bookmaker": "Magical Red",
+    "bonus": "100% Bonus op til 1000 kr.",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Come On",
+    "bonus": "100% Bonus op til 1000 kr.",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Play Ojo",
+    "bonus": "50 FREE SPINS TIL BOOK OF DEAD",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "nordicbet",
+    "bonus": "100% Bonus op til 200 kr.",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Maria Casino",
+    "bonus": "100 FREE SPINS TIL GEMIX 2",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Swift Casino",
+    "bonus": "100% Bonus op til 500 kr.",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "999 Casino",
+    "bonus": "50 FREE SPINS TIL FIRE JOKER",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
+  },
+  {
+    "bookmaker": "Bingo",
+    "bonus": "25 FREE SPINS TIL GATES OF OLYMPUS",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://mrvegas.com",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   }
 ]

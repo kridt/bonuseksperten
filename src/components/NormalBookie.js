@@ -68,6 +68,8 @@ export default function NormalBookie({ data }) {
             textAlign: "center",
             padding: "0 1em",
             fontSize: "10px",
+            overflowY: "scroll",
+            height: "45px",
           }}
         >
           {data.terms}

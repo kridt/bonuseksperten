@@ -53,6 +53,73 @@ export default function Footer() {
         <div style={{ textAlign: "left" }}>
           <p>© {new Date().getFullYear()} - All rights reserved</p>
         </div>
+
+        <div>
+          <h2>Spil ansvarligt</h2>
+          <p>
+            Spil ansvarligt. For yderligere information og hjælp, kontakt
+            StopSpillet på telefon 70 22 28 25 eller besøg{" "}
+            <a
+              style={{
+                color: "white",
+              }}
+              href="https://stopspillet.dk/"
+            >
+              stopspillet.dk
+            </a>
+          </p>
+          <div
+            style={{
+              display: "grid",
+              gridTemplateColumns: "repeat(2, 1fr)",
+            }}
+          >
+            <div
+              style={{
+                marginTop: "1em",
+                maxWidth: "150px",
+              }}
+            >
+              <img
+                width={"100%"}
+                src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-28.png"
+                alt=""
+              />
+            </div>
+            <div
+              style={{
+                marginTop: "1em",
+                maxWidth: "150px",
+              }}
+            >
+              <img width={"100%"} src="/img/rofus.webp" alt="" />
+            </div>
+            <div
+              style={{
+                marginTop: "1em",
+                maxWidth: "150px",
+              }}
+            >
+              <img
+                width={"100%"}
+                src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-29.png"
+                alt=""
+              />
+            </div>
+            <div
+              style={{
+                marginTop: "1em",
+                maxWidth: "150px",
+              }}
+            >
+              <img
+                width={"100%"}
+                src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-31.png"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
@@ -97,6 +164,58 @@ export default function Footer() {
             stopspillet.dk
           </a>
         </p>
+
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(2, 1fr)",
+          }}
+        >
+          <div
+            style={{
+              marginTop: "1em",
+              maxWidth: "200px",
+            }}
+          >
+            <img
+              width={"100%"}
+              src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-28.png"
+              alt=""
+            />
+          </div>
+          <div
+            style={{
+              marginTop: "1em",
+              maxWidth: "200px",
+            }}
+          >
+            <img width={"100%"} src="/img/rofus.webp" alt="" />
+          </div>
+          <div
+            style={{
+              marginTop: "1em",
+              maxWidth: "200px",
+            }}
+          >
+            <img
+              width={"100%"}
+              src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-29.png"
+              alt=""
+            />
+          </div>
+          <div
+            style={{
+              marginTop: "1em",
+              maxWidth: "200px",
+            }}
+          >
+            <img
+              width={"100%"}
+              src="https://casinoven.dk/wp-content/uploads/2023/09/Design-uden-navn-31.png"
+              alt=""
+            />
+          </div>
+        </div>
       </div>
 
       <div

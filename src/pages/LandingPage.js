@@ -19,7 +19,6 @@ export default function LandingPage() {
     return (
       <div>
         <NavBar />
-        <h1>Mobile Landing Page</h1>
 
         <div
           style={{
@@ -27,6 +26,7 @@ export default function LandingPage() {
             gridTemplateColumns: "repeat(2, 1fr)",
             gap: ".5em",
             padding: "0 1em",
+            margin: "5em auto",
           }}
         >
           {data.map((item) => {
