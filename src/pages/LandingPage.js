@@ -71,6 +71,43 @@ export default function LandingPage() {
 
       <div
         style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(1, 1fr)",
+        }}
+      >
+        <div
+          style={{
+            width: "100%",
+            height: "400px",
+            overflow: "hidden",
+            objectFit: "cover",
+            opacity: "0.8",
+            gridArea: "1 / 1 / 2 / 2",
+          }}
+        >
+          <img width={"100%"} src="/background.webp" alt="" />
+        </div>
+        <div
+          style={{
+            gridArea: "1 / 1 / 2 / 2",
+            zIndex: "10",
+          }}
+        >
+          <h1
+            style={{
+              color: "white",
+              textAlign: "center",
+              textShadow: "2px 2px 4px #000000",
+              fontSize: "3em",
+              marginTop: "50px",
+            }}
+          >
+            <strong>De bedste casino bonusser i Danmark</strong>
+          </h1>
+        </div>
+      </div>
+      <div
+        style={{
           textAlign: "center",
           padding: "0 20%",
         }}

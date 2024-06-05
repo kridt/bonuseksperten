@@ -88,6 +88,18 @@ export default function NavBar() {
               textDecoration: "none",
               padding: "1em",
             }}
+            to="/votes"
+          >
+            Andmeldelser
+          </Link>
+        </li>
+        <li>
+          <Link
+            style={{
+              color: "white",
+              textDecoration: "none",
+              padding: "1em",
+            }}
             to="/"
           >
             Om os

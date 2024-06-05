@@ -49,6 +49,7 @@ export default function NormalBookie({ data }) {
             margin: "1em",
             display: "block",
           }}
+          target="_blank"
           href={data.affiliate_link}
         >
           Få bonus
