@@ -1,6 +1,7 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import Andmeldelser from "./pages/Andmeldelser";
+import BookmakerSite from "./pages/BookmakerSite";
 
 function App() {
   const router = createBrowserRouter([
@@ -11,6 +12,10 @@ function App() {
     {
       path: "/votes",
       element: <Andmeldelser />,
+    },
+    {
+      path: "/bookmaker/:bookmaker",
+      element: <BookmakerSite />,
     },
   ]);
 
