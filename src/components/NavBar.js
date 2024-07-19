@@ -67,6 +67,8 @@ export default function NavBar() {
           margin: "0",
           justifyContent: "space-between",
           flex: "1",
+          fontWeight: "bold",
+          fontSize: "1.4em",
         }}
       >
         <li>
@@ -90,7 +92,7 @@ export default function NavBar() {
             }}
             to="/votes"
           >
-            Andmeldelser
+            Anmeldelser
           </Link>
         </li>
         <li>
@@ -112,7 +114,7 @@ export default function NavBar() {
               textDecoration: "none",
               padding: "1em",
             }}
-            to="/"
+            to="/kontaktOs"
           >
             Kontakt
           </Link>

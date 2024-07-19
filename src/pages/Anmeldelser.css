@@ -1,0 +1,151 @@
+/* Anmeldelser.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  margin-bottom: 40px;
+}
+
+.hr {
+  border: none;
+  height: 2px;
+  background: #ddd;
+  margin: 20px 0;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5em;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.imageContainer {
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s;
+}
+
+.image:hover {
+  transform: scale(1.1);
+}
+
+.cardContent {
+  padding: 20px;
+}
+
+.bookmakerName {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.rating-container {
+  display: inline-block;
+  animation: bounce-rating 2s infinite;
+}
+
+.rating {
+  color: #ffd700; /* Guld farve til stjerner */
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+}
+
+.star {
+  display: inline-block;
+  animation: bounce 2s infinite;
+}
+
+.star-1 {
+  animation-delay: 0s;
+}
+
+.star-2 {
+  animation-delay: 0.2s;
+}
+
+.star-3 {
+  animation-delay: 0.4s;
+}
+
+.star-4 {
+  animation-delay: 0.6s;
+}
+
+.star-5 {
+  animation-delay: 0.8s;
+}
+
+.star-empty {
+  color: #ccc; /* Grå farve til tomme stjerner */
+}
+
+.bonus {
+  margin-top: 10px;
+  font-size: 1em;
+  color: #555;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes bounce-rating {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-5px);
+  }
+  60% {
+    transform: translateY(-2.5px);
+  }
+}

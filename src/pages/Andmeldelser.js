@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import NavBar from "../components/NavBar";
 import { useMediaQuery } from "react-responsive";
 import { Link } from "react-router-dom";
+import "./Anmeldelser.css"; // Importer CSS fil for styling
 
-export default function Andmeldelser() {
+export default function Anmeldelser() {
   const isMobile = useMediaQuery({ query: "(max-width: 600px)" });
   const [data, setData] = useState([]);
 
@@ -23,62 +24,58 @@ export default function Andmeldelser() {
   }
 
   return (
-    <div>
+    <>
       <NavBar />
-
-      <div
-        style={{
-          maxWidth: "80%",
-          margin: "0 auto",
-          textAlign: "center",
-        }}
-      >
-        <h1>Her er alle vores anmeldelser af de forskellige bookmakere.</h1>
-        <p>
-          Vi har anmeldt alle bookmakere og givet dem en karakter fra 1-5
-          stjerner
-        </p>
-        <hr />
-        <div
-          style={{
-            display: "grid",
-            width: "80%",
-            gridTemplateColumns: "repeat(4, minmax(250px, 1fr))",
-            gap: "1.5em",
-            margin: "5em auto",
-          }}
-        >
-          {data.map((item) => {
-            console.log(item);
+      <div className="container">
+        <div className="header">
+          <h1>Her er alle vores anmeldelser af de forskellige bookmakere.</h1>
+          <p>
+            Vi har anmeldt alle bookmakere og givet dem en karakter fra 1-5
+            stjerner
+          </p>
+          <hr className="hr" />
+        </div>
+        <div className="gridContainer">
+          {data.map((item, index) => {
             return (
-              <div
-                style={{
-                  textAlign: "center",
-                }}
-                key={item?.bookmaker}
-              >
-                <Link to={"/bookmaker/" + item?.bookmaker}>
-                  <div
-                    style={{
-                      maxWidth: "350px",
-                      textAlign: "center",
-                    }}
-                  >
+              <div className="card" key={item?.bookmaker}>
+                <Link to={"/bookmaker/" + item?.bookmaker} className="link">
+                  <div className="imageContainer">
                     <img
-                      width={"100%"}
+                      className="image"
                       src={
                         "/img/" + item?.bookmaker?.replaceAll(".", " ") + ".png"
                       }
                       alt={item?.bookmaker}
                     />
                   </div>
-                  <p>{item?.rating}</p>
+                  <div className="cardContent">
+                    <h2 className="bookmakerName">{item?.bookmaker}</h2>
+                    <div
+                      className="rating-container"
+                      style={{ animationDelay: `${index * 0.2}s` }}
+                    >
+                      <div className="rating">
+                        {Array.from({ length: item?.rating }, (_, i) => (
+                          <span key={i} className={`star star-${i + 1}`}>
+                            ★
+                          </span>
+                        ))}
+                        {Array.from({ length: 5 - item?.rating }, (_, i) => (
+                          <span key={i + item?.rating} className="star-empty">
+                            ☆
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                    <p className="bonus">{item?.bonus}</p>
+                  </div>
                 </Link>
               </div>
             );
           })}
         </div>
       </div>
-    </div>
+    </>
   );
 }

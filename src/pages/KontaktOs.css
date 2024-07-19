@@ -1,0 +1,79 @@
+/* KontaktOs.css */
+body {
+  margin: 0;
+  font-family: "roboto", sans-serif;
+  background: #f4f4f4;
+}
+
+.kontakt-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 8em auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.kontakt-header {
+  margin-bottom: 20px;
+}
+
+.kontakt-header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #8b0000;
+}
+
+.kontakt-header p {
+  font-size: 1.2em;
+  color: #8b0000;
+}
+
+.kontakt-form {
+  width: 100%;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+  color: #8b0000;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #8b0000;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #b22222;
+  box-shadow: 0 0 5px rgba(178, 34, 34, 0.5);
+}
+
+.submit-button {
+  background: #8b0000;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.submit-button:hover {
+  background: #b22222;
+}
