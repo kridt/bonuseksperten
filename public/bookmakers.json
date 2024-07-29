@@ -1,18 +1,26 @@
 [
   {
-    "bookmaker": "Unibet",
-    "bonus": "100 free spins til 'Book of Dead'",
-    "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
-    "rating": 4.5,
-    "affiliate_link": "https://b1.trickyrock.com",
-    "image_path": "/mnt/data/bookmaker_images/unibet.png"
+    "bookmaker": "Mr Vegas",
+    "bonus": "100% Bonus op til 1000 kr.",
+    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
+    "rating": 4,
+    "affiliate_link": "https://trk.affiliates.videoslots.com/o/nQIYsO?lpage=WlaNiw&site_id=7010149 ",
+    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
-    "bookmaker": "One Casino",
+    "bookmaker": "Chanz",
+    "bonus": "100 kr ved første indbetaling",
+    "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
+    "rating": 4.5,
+    "affiliate_link": "https://wlchanz.adsrv.eacdn.com/C.ashx?btag=a_4156b_213c_&affid=1312&siteid=4156&adid=213&c=",
+    "image_path": "/mnt/data/bookmaker_images/chanz.png"
+  },
+  {
+    "bookmaker": "Mr Play",
     "bonus": "50 free spins til 'Fire Joker'",
     "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://finch.go2cloud.org",
+    "affiliate_link": "https://online.mrplay.com/promoRedirect?key=ej0xMzUyNTc4NyZsPTEzNTI1Mjc5JnA9MTc5MzY1",
     "image_path": "/mnt/data/bookmaker_images/one_casino.png"
   },
   {
@@ -20,12 +28,12 @@
     "bonus": "100% Bonus op til 1000 kr.",
     "terms": "Omsætningskrav 10x bonusbeløb inden 60 dage. Se vilkår og betingelser. ",
     "rating": 4.5,
-    "affiliate_link": "https://betiniadk.servclick1move.com",
+    "affiliate_link": "https://betiniadk.servclick1move.com/?mid=129909_1268117",
     "image_path": "/mnt/data/bookmaker_images/betinia.png"
   },
   {
-    "bookmaker": "Heyspin",
-    "bonus": "100% Bonus op til 1000 kr.",
+    "bookmaker": "Slot Stars",
+    "bonus": "100% Bonus op til 500 kr.",
     "terms": "Omsætningskrav 10x bonusbeløb inden 60 dage. Se vilkår og betingelser. ",
     "rating": 4,
     "affiliate_link": "https://track.chillipartners.com",
@@ -33,26 +41,26 @@
   },
   {
     "bookmaker": "VinderCasino",
-    "bonus": "500 free spins til 'Hugo'",
+    "bonus": "100 free spins til 'Guldjagt'",
     "terms": "Kun nye spillere, ingen indbetalingskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://vindercasino.dk",
+    "affiliate_link": "https://vindercasino.dk/?btag=guldjagt&utm_source=bonuseksperten&utm_medium=velkomstgave-guldjagt&utm_campaign=guldjagt",
     "image_path": "/mnt/data/bookmaker_images/vindercasino.png"
   },
   {
-    "bookmaker": "Mr Green",
-    "bonus": "100 kr. uden indbetaling",
+    "bookmaker": "One Casino",
+    "bonus": "50 Gratis Spins",
     "terms": "Kun nye spillere, 1x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4.5,
-    "affiliate_link": "https://ads.mrgreen.com",
+    "affiliate_link": "https://finch.go2cloud.org/aff_c?offer_id=73&aff_id=1707",
     "image_path": "/mnt/data/bookmaker_images/mr_green.png"
   },
   {
-    "bookmaker": "LeoVegas",
-    "bonus": "Op til 1000 kr. i bonus + 200 free spins",
-    "terms": "Omsætningskrav 20x bonusbeløb. Se vilkår og betingelser. ",
+    "bookmaker": "PlayToro",
+    "bonus": "Op til 500 kr velkomstbonus",
+    "terms": "Omsætningskrav 10x + bonusbeløb. Se vilkår og betingelser. ",
     "rating": 4.5,
-    "affiliate_link": "https://ntrfr.leovegas.com",
+    "affiliate_link": "https://go.playtoropartners.com/visit/?bta=35657&brand=playtoro",
     "image_path": "/mnt/data/bookmaker_images/leovegas.png"
   },
   {
@@ -64,11 +72,11 @@
     "image_path": "/mnt/data/bookmaker_images/spilnu.png"
   },
   {
-    "bookmaker": "Expekt",
-    "bonus": "100 Free spins til Gold Blitz",
+    "bookmaker": "Knight Slots",
+    "bonus": "100% Bonus op til 500 kr.",
     "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
     "rating": 4.5,
-    "affiliate_link": "https://expekt.dk",
+    "affiliate_link": "https://site.knightslots.com/index.php?aname=jonas6111",
     "image_path": "/mnt/data/bookmaker_images/expekt.png"
   },
   {
@@ -76,24 +84,8 @@
     "bonus": "100 kr. uden indbetaling",
     "terms": "Kun nye spillere, ingen omsætningskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://pip.dk",
+    "affiliate_link": "https://www.pip.dk/?utm_source=bonuseksperten.dk&utm_medium=affiliate&utm_campaign=princessofegypt2_velkomstgave",
     "image_path": "/mnt/data/bookmaker_images/pip.png"
-  },
-  {
-    "bookmaker": "Mr Vegas",
-    "bonus": "100% Bonus op til 1000 kr.",
-    "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
-    "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
-    "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
-  },
-  {
-    "bookmaker": "Chanz",
-    "bonus": "100% Bonus op til 400 kr.",
-    "terms": "Reklame | 18+ | Spil ansvarligt | Selvudelukkelse via Rofus.nu | Kontakt Spillemyndighedens hjælpelinje på StopSpillet rådgivning om spilafhængighed, Kun gyldig ved første indbetaling | Min. indbetaling: 100 kr. | Maks. bonus: 1.000 kr. | Omsætningskrav: 10 x indbetaling + bonusbeløb inden 60 dage Regler og vilkår gælder",
-    "rating": 4,
-    "affiliate_link": "https://casino.chanz.com/da/",
-    "image_path": "/mnt/data/bookmaker_images/Chanz.png"
   },
   {
     "bookmaker": "Magical Red",
@@ -108,15 +100,15 @@
     "bonus": "100% Bonus op til 1000 kr.",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://media.comeon.com/tracking.php?tracking_code&aid=119396&mid=2547&sid=456855&pid=805",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
     "bookmaker": "Play Ojo",
-    "bonus": "50 FREE SPINS TIL BOOK OF DEAD",
+    "bonus": "100 FREE SPINS TIL BOOK OF DEAD",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://site.gotoplayojo.com/index.php?aname=jonas611",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
@@ -128,11 +120,11 @@
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
-    "bookmaker": "Maria Casino",
-    "bonus": "100 FREE SPINS TIL GEMIX 2",
+    "bookmaker": "Video Slots",
+    "bonus": "100% Bonus op til 1000 kr.",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://trk.affiliates.videoslots.com/o/jp8ZGO?lpage=LZ95xq&site_id=7010149",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
@@ -140,23 +132,23 @@
     "bonus": "100% Bonus op til 500 kr.",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://ads.galaxyaffiliates.com/redirect.aspx?mid=4271&sid=12372&cid=&pid=&affid=7580 ",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
     "bookmaker": "999 Casino",
-    "bonus": "50 FREE SPINS TIL FIRE JOKER",
+    "bonus": "100% Bonus op til 1000 kr. + 15 spins",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://tracker.partners999.dk/link?btag=82484606_368085",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   },
   {
-    "bookmaker": "Bingo",
-    "bonus": "25 FREE SPINS TIL GATES OF OLYMPUS",
+    "bookmaker": "Get Lucky",
+    "bonus": "100% Bonus op til 300 kr.",
     "terms": "Kun nye spillere, 10x gennemspilskrav. Se vilkår og betingelser. ",
     "rating": 4,
-    "affiliate_link": "https://mrvegas.com",
+    "affiliate_link": "https://media.getlucky.com/tracking.php?tracking_code&aid=119396&mid=9054&sid=456855&pid=3462",
     "image_path": "/mnt/data/bookmaker_images/mrvegas.png"
   }
 ]
